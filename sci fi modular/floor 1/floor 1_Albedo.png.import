@@ -1,0 +1,33 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/floor 1_Albedo.png-c0a64d1a12d26507bf18121c56df6f03.s3tc.stex"
+path.etc2="res://.import/floor 1_Albedo.png-c0a64d1a12d26507bf18121c56df6f03.etc2.stex"
+
+[deps]
+
+source_file="res://sci-fi modular/floor 1/floor 1_Albedo.png"
+source_md5="0810d6ee66995b32e5550e74c76f64f2"
+
+dest_files=[ "res://.import/floor 1_Albedo.png-c0a64d1a12d26507bf18121c56df6f03.s3tc.stex", "res://.import/floor 1_Albedo.png-c0a64d1a12d26507bf18121c56df6f03.etc2.stex" ]
+dest_md5="7d02c554a4424e92c243b37095a7a63b"
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=1
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
