@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/wall 2_Height.png-7d1e1de2f906c1a382d1b22f31343fbc.stex"
+
+[deps]
+
+source_file="res://sci-fi modular/wall 2/wall 2_Height.png"
+source_md5="b45f4e5ff0e93379f75eaaeda3f336c2"
+
+dest_files=[ "res://.import/wall 2_Height.png-7d1e1de2f906c1a382d1b22f31343fbc.stex" ]
+dest_md5="8381f201186d054f7aa27388abf08f10"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

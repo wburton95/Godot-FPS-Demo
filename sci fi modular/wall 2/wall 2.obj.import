@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wall 2.obj-3e347378dab86c87a8a4ac5bb6256129.mesh"
+
+[deps]
+
+files=[ "res://.import/wall 2.obj-3e347378dab86c87a8a4ac5bb6256129.mesh" ]
+
+source_file="res://sci-fi modular/wall 2/wall 2.obj"
+source_md5="4080b5764ba892859fe68f2e9030a6cc"
+
+dest_files=[ "res://.import/wall 2.obj-3e347378dab86c87a8a4ac5bb6256129.mesh", "res://.import/wall 2.obj-3e347378dab86c87a8a4ac5bb6256129.mesh" ]
+dest_md5="72fff9712d71203b6c9907f2f3827c1f"
+
+[params]
+
+generate_tangents=true
