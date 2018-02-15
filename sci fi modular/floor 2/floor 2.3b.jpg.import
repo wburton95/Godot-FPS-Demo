@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/floor 2.3b.jpg-c1b0babd179bfe2b59585a2bb77595d5.stex"
+
+[deps]
+
+source_file="res://sci-fi modular/floor 2/floor 2.3b.jpg"
+source_md5="418e9749d17a16b6fa5ceb55d4c758bb"
+
+dest_files=[ "res://.import/floor 2.3b.jpg-c1b0babd179bfe2b59585a2bb77595d5.stex" ]
+dest_md5="d2c1bb07e93a525f8c0f5925bef367dd"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,33 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/floor 2_Metallic.png-73de599214c20bf86aa792c9e68dd169.s3tc.stex"
+path.etc2="res://.import/floor 2_Metallic.png-73de599214c20bf86aa792c9e68dd169.etc2.stex"
+
+[deps]
+
+source_file="res://sci-fi modular/floor 2/floor 2_Metallic.png"
+source_md5="a37353acca6a5232ad174c9b25d4dc62"
+
+dest_files=[ "res://.import/floor 2_Metallic.png-73de599214c20bf86aa792c9e68dd169.s3tc.stex", "res://.import/floor 2_Metallic.png-73de599214c20bf86aa792c9e68dd169.etc2.stex" ]
+dest_md5="67c7a65fbdbbd75d667e14919ba56092"
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

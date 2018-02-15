@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/floor 2.obj-9fdf061cd560e9d172bc97f76f47fb9b.mesh"
+
+[deps]
+
+files=[ "res://.import/floor 2.obj-9fdf061cd560e9d172bc97f76f47fb9b.mesh" ]
+
+source_file="res://sci-fi modular/floor 2/floor 2.obj"
+source_md5="99275a36d565f99d05b27163a31ddfce"
+
+dest_files=[ "res://.import/floor 2.obj-9fdf061cd560e9d172bc97f76f47fb9b.mesh", "res://.import/floor 2.obj-9fdf061cd560e9d172bc97f76f47fb9b.mesh" ]
+dest_md5="6f84ceca855cf938673936b6f0667061"
+
+[params]
+
+generate_tangents=true
