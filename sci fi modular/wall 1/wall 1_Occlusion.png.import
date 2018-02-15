@@ -1,0 +1,33 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/wall 1_Occlusion.png-4d033c08044250b9eb83a16005509151.s3tc.stex"
+path.etc2="res://.import/wall 1_Occlusion.png-4d033c08044250b9eb83a16005509151.etc2.stex"
+
+[deps]
+
+source_file="res://sci-fi modular/wall 1/wall 1_Occlusion.png"
+source_md5="b4aa3633d3c5b0e337099d38a88fb50e"
+
+dest_files=[ "res://.import/wall 1_Occlusion.png-4d033c08044250b9eb83a16005509151.s3tc.stex", "res://.import/wall 1_Occlusion.png-4d033c08044250b9eb83a16005509151.etc2.stex" ]
+dest_md5="d92ed9ed19abfba09137b4c9fd8d110f"
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

@@ -1,0 +1,33 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/wall 1_Normal.png-a837d4c6fea557ab27adf21d739a7bc2.s3tc.stex"
+path.etc2="res://.import/wall 1_Normal.png-a837d4c6fea557ab27adf21d739a7bc2.etc2.stex"
+
+[deps]
+
+source_file="res://sci-fi modular/wall 1/wall 1_Normal.png"
+source_md5="c4883ea4a9326766055bc84b6c96e692"
+
+dest_files=[ "res://.import/wall 1_Normal.png-a837d4c6fea557ab27adf21d739a7bc2.s3tc.stex", "res://.import/wall 1_Normal.png-a837d4c6fea557ab27adf21d739a7bc2.etc2.stex" ]
+dest_md5="89380f335632147936644f10c8837008"
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=1
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
